@@ -1,0 +1,4 @@
+﻿  ejemploApp.cpp
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\ejem\ejemploapp.cpp(21): warning C4309: 'argument': truncation of constant value
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\ejem\ejemploapp.cpp(22): warning C4309: 'argument': truncation of constant value
+  ejem.vcxproj -> C:\Users\Anthon\Desktop\ESCUELA\SAE\prograCompGrafico\myDir\PrincipiosDeCG\x64\Debug\ejem.exe

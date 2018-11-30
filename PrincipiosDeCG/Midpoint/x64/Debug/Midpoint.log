@@ -1,0 +1,14 @@
+﻿  ej.cpp
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(31): warning C4309: 'argument': truncation of constant value
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(337): warning C4309: 'argument': truncation of constant value
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(351): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(352): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(364): warning C4309: 'argument': truncation of constant value
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(436): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(437): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(449): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\anthon\desktop\escuela\sae\progracompgrafico\mydir\principiosdecg\midpoint\src\ej.cpp(450): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Midpoint.vcxproj -> C:\Users\Anthon\Desktop\ESCUELA\SAE\prograCompGrafico\myDir\PrincipiosDeCG\x64\Debug\Midpoint.exe
